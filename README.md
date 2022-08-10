@@ -1,6 +1,6 @@
 # reboot-asus-router-via-SSH
 
-An Expect script to send reboot command to asus router via ssh
+An Expect script & a Python script to send reboot command to asus router via ssh
 
 # Why
 
